@@ -49,7 +49,7 @@ $ youtube-dl -f 22 lien-de-ta-video-youtube
 
  et la "la commande ultime" pour l'enregistre en mp3 320  pour les audiophiles en flac débrouiller vous 
 ````````````````````````````````````````````````````````````````````````````````````````
-$  youtube-dl https://www.youtube.com/watch?v=0AUmyE6uILM -f 251 -x --audio-format mp3 --audio-quality 320k
+$   youtube-dl -x --audio-format mp3 --prefer-ffmpeg  https://youtu.be/5S30jAev2Ds       
 ````````````````````````````````````````````````````````````````````````````````````````
 
 
